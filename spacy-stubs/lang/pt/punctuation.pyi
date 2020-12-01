@@ -1,0 +1,5 @@
+from typing import Any
+
+TOKENIZER_PREFIXES: Any
+TOKENIZER_SUFFIXES: Any
+TOKENIZER_INFIXES: Any

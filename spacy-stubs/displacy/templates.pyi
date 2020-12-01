@@ -1,0 +1,10 @@
+TPL_DEP_SVG: str
+TPL_DEP_WORDS: str
+TPL_DEP_WORDS_LEMMA: str
+TPL_DEP_ARCS: str
+TPL_FIGURE: str
+TPL_TITLE: str
+TPL_ENTS: str
+TPL_ENT: str
+TPL_ENT_RTL: str
+TPL_PAGE: str

@@ -1,0 +1,6 @@
+from .. import displacy as displacy, util as util
+from ..gold import GoldCorpus as GoldCorpus
+from typing import Any, Optional
+
+def evaluate(model: Any, data_path: Any, gpu_id: int = ..., gold_preproc: bool = ..., displacy_path: Optional[Any] = ..., displacy_limit: int = ..., return_scores: bool = ...): ...
+def render_parses(docs: Any, output_path: Any, model_name: str = ..., limit: int = ..., deps: bool = ..., ents: bool = ...) -> None: ...

@@ -1,0 +1,1 @@
+from ..punctuation import TOKENIZER_SUFFIXES as TOKENIZER_SUFFIXES
